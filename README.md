@@ -40,15 +40,15 @@ The amplifier has not been physically assembled or bench-tested.
 
 ## Schematic
 
-![Amplifier schematic](images/schematic.png)
+![Amplifier schematic](images/schematics.png)
 
 ## Frequency Response
 
-![Frequency response](images/audio-amplifier-frequency-response.png)
+![Frequency response](images/audio-amplifier-frequency-response.jpg)
 
 ## Transient Response
 
-![Transient response](images/audio-amplifier-transient-response.png)
+![Transient response](images/audio-amplifier-transient-response.jpg)
 
 ## Reproducing the Simulation
 
