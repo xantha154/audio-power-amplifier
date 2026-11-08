@@ -48,7 +48,7 @@ The amplifier has not been physically assembled or bench-tested.
 
 ## Transient Response
 
-![Transient response](images/audio-amplifier-frequency-response.jpg)
+![Transient response](images/audio-amplifier-transient-response.JPG)
 
 ## Reproducing the Simulation
 
